@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# DeepCT-LNM-Example
-=======
 # DeepCT-LNM-Example
 
 This is an example of running inference with the trained DeepCT-LNM prediction model. The model takes as inputs the CT image (arterial and portal phases) and corresponding PDAC and lymph node masks, and outputs the probability of lymph node metastasis status. An illustrative example of the input data is provided in the *test_example* folder. This code is developed based on [nnUNet](https://github.com/MIC-DKFZ/nnUNet) framework.
@@ -28,6 +25,3 @@ Set *checkpoints path* to RESULTS_FOLDER
 ### run inference with the trained model
   ```bash run_inference.sh test_data_dir```
   
- 
-
->>>>>>> e49d874bec1179926264c97a0be3a8700a69036b
