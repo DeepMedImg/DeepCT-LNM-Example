@@ -23,7 +23,7 @@ Set *checkpoints path* to RESULTS_FOLDER
   ```export RESULTS_FOLDER="checkpoints path"```
 
 ### run inference with the trained model
-  ```bash run_inference.sh *test_data_dir*```
+  ```bash run_inference.sh test_data_dir```
   
  
 
