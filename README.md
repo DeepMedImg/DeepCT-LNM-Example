@@ -5,7 +5,7 @@ This is an example of running inference with the trained DeepCT-LNM prediction m
 ## Installation
 This code depends on [nnUNet](https://github.com/MIC-DKFZ/nnUNet). Below are quick steps for installation. Please refer to (https://github.com/MIC-DKFZ/nnUNet#installation) for more detailed instruction.
 
-1) Install [PyTorch](https://pytorch.org/get-started/locally/) as described on their website (conda/pip)
+1) Install [PyTorch](https://pytorch.org/get-started/locally/) 
 
   ```pip install torch torchvision```
   
